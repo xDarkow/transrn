@@ -6,7 +6,7 @@
 
 ## Sobre o projeto
 
-Esse projeto de software que consiste no desenvolvimento de um sistema web para gerenciamento de uma empresa fictícia, **TransRN**, de transporte de cargas entre as cidades de Natal, Mossoró e Caicó, localizadas no estado do Rio Grande do Norte.
+Esse projeto de software consiste no desenvolvimento de um sistema web para gerenciamento de uma empresa fictícia, **TransRN**, de transporte de cargas entre as cidades de Natal, Mossoró e Caicó, localizadas no estado do Rio Grande do Norte.
 
 A aplicação tem como finalidade auxiliar na gestão das operações da transportadora, abrangendo o gerenciamento de clientes, funcionários, encomendas e veículos, além do controle de coleta, transporte entre unidades e entrega de objetos. O sistema também prevê recursos para cálculo de frete e rastreamento de encomendas.
 
