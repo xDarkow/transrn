@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/transrn.png" alt="Logo TransRN" width="400">
+</p>
+
 # TransRN - Transportadora de Cargas
 
 ## Sobre o projeto
